@@ -1,0 +1,2 @@
+# Sample message classifier model
+# In a real implementation, this would be a trained scikit-learn model

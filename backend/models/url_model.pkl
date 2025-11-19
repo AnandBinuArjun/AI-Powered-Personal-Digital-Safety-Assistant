@@ -1,0 +1,2 @@
+# Sample URL classifier model
+# In a real implementation, this would be a trained scikit-learn model
